@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zurazzansi
-- 👀 I’m interested in cloud and IP networking stuff
-- 🌱 I’m currently learning python/powershell/azure/aws
+- 👀 I’m interested in IP/MPLS networking stuff
+- 🌱 I’m currently learning python
 
 
 <!---
